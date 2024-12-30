@@ -1,0 +1,51 @@
+Sr No.,Gender,Ethnicity,Smoking Habit,Drinking Habit,Biking Habit,Walking Habit,Jogging Habit,Dietary Habit,Exercise Frequency,Age,Family History of Cancer,BMI,Occupation,Stress Level,Probability of Cancer
+1,Male,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,55,Yes,30.5,Factory Worker,High,82%
+2,Female,Asian,Occasional,Moderate,High,High,High,Balanced,Daily,30,No,22.1,Teacher,Medium,18%
+3,Male,African American,None,None,High,High,High,Vegetarian,Daily,28,No,21.7,Athlete,Low,9%
+4,Female,Hispanic,Heavy,Frequent,Low,Low,Low,Unhealthy,None,60,Yes,32.3,Office Worker,Very High,88%
+5,Male,Caucasian,Moderate,Occasional,Medium,Medium,Medium,High Protein,Weekly,45,No,26.4,Construction Worker,High,45%
+6,Female,Asian,None,None,High,High,High,Balanced,Daily,29,No,21.9,Nurse,Medium,7%
+7,Male,Caucasian,Heavy,Moderate,Low,Medium,Low,Unhealthy,Monthly,58,Yes,31.8,Truck Driver,High,79%
+8,Female,African American,Moderate,Occasional,High,Medium,Low,Balanced,Weekly,40,No,25.2,Teacher,Medium,32%
+9,Male,Hispanic,None,Occasional,High,High,Medium,Vegetarian,Daily,25,No,20.9,Student,Low,5%
+10,Female,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,62,Yes,33.1,Retired,Medium,86%
+11,Male,Asian,Moderate,Moderate,Medium,High,High,High Protein,Daily,48,No,27.0,Manager,Very High,51%
+12,Female,African American,None,None,Medium,High,High,Balanced,Daily,24,No,20.7,Student,Low,3%
+13,Male,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,65,Yes,34.0,Retired,Medium,91%
+14,Female,Hispanic,Moderate,Occasional,High,Medium,Low,High Protein,Weekly,50,No,26.5,Nurse,High,39%
+15,Male,Asian,None,Occasional,High,High,High,Vegetarian,Daily,27,No,22.0,Software Developer,Medium,6%
+16,Female,Caucasian,Heavy,Moderate,Low,Medium,Low,Unhealthy,Monthly,57,Yes,31.5,Office Worker,High,76%
+17,Male,African American,Moderate,Occasional,Medium,High,Medium,Balanced,Weekly,42,No,25.8,Police Officer,Very High,48%
+18,Female,Hispanic,None,None,High,High,High,Vegetarian,Daily,26,No,21.6,Yoga Instructor,Low,4%
+19,Male,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,61,Yes,32.8,Factory Worker,High,85%
+20,Female,Asian,Moderate,Moderate,Medium,Medium,Low,High Protein,Weekly,47,No,26.2,Teacher,Medium,36%
+21,Male,African American,None,Occasional,High,High,Medium,Balanced,Daily,29,No,21.5,Athlete,Low,8%
+22,Female,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,64,Yes,33.5,Retired,Medium,89%
+23,Male,Hispanic,Moderate,Moderate,Medium,High,High,High Protein,Daily,51,No,27.3,Construction Worker,High,52%
+24,Female,Asian,None,None,High,High,High,Vegetarian,Daily,23,No,21.0,Student,Low,2%
+25,Male,Caucasian,Heavy,Frequent,Low,Medium,Low,Unhealthy,Monthly,59,Yes,31.9,Truck Driver,High,81%
+26,Female,African American,Moderate,Occasional,High,Medium,Medium,Balanced,Weekly,46,No,26.1,Nurse,Medium,35%
+27,Male,Hispanic,None,None,High,High,High,Vegetarian,Daily,28,No,21.2,Teacher,Low,6%
+28,Female,Caucasian,Heavy,Moderate,Low,Low,Low,Unhealthy,None,56,Yes,30.8,Office Worker,High,77%
+29,Male,Asian,Moderate,Occasional,Medium,High,Medium,High Protein,Weekly,44,No,25.4,Manager,Very High,43%
+30,Female,African American,None,Occasional,High,High,High,Balanced,Daily,31,No,22.1,Lawyer,Medium,9%
+31,Male,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,63,Yes,33.2,Retired,Medium,88%
+32,Female,Hispanic,Moderate,Moderate,Medium,Medium,Low,Balanced,Weekly,49,No,26.7,Teacher,Medium,37%
+33,Male,Asian,None,None,High,High,High,Vegetarian,Daily,25,No,21.1,Software Developer,Low,4%
+34,Female,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,66,Yes,34.5,Retired,High,92%
+35,Male,African American,Moderate,Occasional,Medium,High,Medium,High Protein,Weekly,53,No,27.5,Police Officer,Very High,54%
+36,Female,Hispanic,None,None,High,High,High,Balanced,Daily,24,No,21.0,Student,Low,3%
+37,Male,Caucasian,Heavy,Moderate,Low,Medium,Low,Unhealthy,Monthly,59,Yes,32.0,Factory Worker,High,80%
+38,Female,Asian,Moderate,Occasional,High,Medium,Medium,Balanced,Weekly,41,No,25.9,Nurse,Medium,33%
+39,Male,African American,None,Occasional,High,High,High,Vegetarian,Daily,30,No,22.3,Teacher,Low,7%
+40,Female,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,65,Yes,33.5,Retired,Medium,90%
+41,Male,Hispanic,Moderate,Moderate,Medium,High,Low,High Protein,Weekly,50,No,27.4,Construction Worker,High,49%
+42,Female,Asian,None,None,High,High,High,Balanced,Daily,27,No,21.6,Yoga Instructor,Low,5%
+43,Male,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,63,Yes,32.7,Retired,High,87%
+44,Female,African American,Moderate,Occasional,Medium,High,Medium,High Protein,Weekly,45,No,26.3,Teacher,Medium,34%
+45,Male,Hispanic,None,None,High,High,High,Vegetarian,Daily,25,No,20.9,Student,Low,3%
+46,Female,Caucasian,Heavy,Frequent,Low,Low,Low,Unhealthy,None,62,Yes,34.1,Office Worker,Very High,89%
+47,Male,Asian,Moderate,Occasional,Medium,Medium,Low,Balanced,Weekly,42,No,26.5,Manager,High,40%
+48,Female,African American,None,None,High,High,High,Vegetarian,Daily,24,No,21.3,Student,Low,2%
+49,Male,Caucasian,Heavy,Moderate,Low,Medium,Low,Unhealthy,Monthly,64,Yes,31.7,Truck Driver,High,83%
+50,Female,Hispanic,Moderate,Occasional,High,Medium,Medium,Balanced,Weekly,46,No,26.8,Nurse,Medium,36%
