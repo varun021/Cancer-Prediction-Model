@@ -27,7 +27,7 @@ This application predicts cancer risk based on lifestyle, family history, and he
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository_url>
+git clone "https://github.com/varun021/Cancer-Prediction-Model.git"
 cd Cancer-Prediction-Model
 ```
 
